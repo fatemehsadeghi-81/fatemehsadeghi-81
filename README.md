@@ -1,16 +1,34 @@
-## Hi there 👋
+# fatemeh sadeghi
 
-<!--
-**fatemehsadeghi-81/fatemehsadeghi-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## programing 
 
-Here are some ideas to get you started:
+```python
+import operator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+action = {
+
+    "+": operator.add,
+
+    "-": operator.sub,
+
+    "/": operator.truediv,
+
+    "*": operator.mul,
+
+    "**": pow
+
+}
+
+print(action['-'](50, 25)) # 25
+```
+- python
+  - numpy
+  - pandas 
+ - c#
+    - console.writeline
+ - java
+ - c++
+ - c
+ - html
+
+![python](https://cdn-icons-png.flaticon.com/512/180/180867.png)
